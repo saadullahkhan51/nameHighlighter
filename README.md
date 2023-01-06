@@ -1,0 +1,5 @@
+- Load into chrome
+- Select extention on lesson page
+- Select language from drop-down list
+- Click highlight and it will highlight all inline code elements
+- Hover over highlight to see convention for selected language
